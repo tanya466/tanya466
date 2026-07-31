@@ -1,3 +1,13 @@
+# 👋 Hey, I'm Tanya Soni
+
+### QA Engineer | Manual Testing | SQL Learner
+
+Testing • Bug Reporting • SQL • Python • Continuous Learning
+
+![QA Engineer](https://img.shields.io/badge/QA%20Engineer-blue)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-success)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![Python](https://img.shields.io/badge/Python-yellow)
 # 💫 About Me:
 🚀 B.Tech Graduate | Aspiring QA Engineer & Web Developer<br>🔹 Manual Testing, Test Cases, Bug Reporting<br>🔹 HTML, CSS, Python<br>🔹 Passionate about software quality and continuous learning<br>🔹 Open to internship and entry-level opportunities
 
